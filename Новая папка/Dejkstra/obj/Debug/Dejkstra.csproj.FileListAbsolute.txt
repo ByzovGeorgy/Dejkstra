@@ -1,0 +1,18 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Dejkstra\bin\Debug\Dejkstra.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Dejkstra\bin\Debug\Dejkstra.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Dejkstra\bin\Debug\Dejkstra.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Dejkstra\obj\Debug\Dejkstra.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Dejkstra\obj\Debug\Dejkstra.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Dejkstra\obj\Debug\Dejkstra.pdb
+C:\Users\GP60\Desktop\Dejkstra\Dejkstra\bin\Debug\Dejkstra.exe.config
+C:\Users\GP60\Desktop\Dejkstra\Dejkstra\obj\Debug\Dejkstra.exe
+C:\Users\GP60\Desktop\Dejkstra\Dejkstra\obj\Debug\Dejkstra.pdb
+C:\Users\GP60\Desktop\Dejkstra\Dejkstra\bin\Debug\Dejkstra.exe
+C:\Users\GP60\Desktop\Dejkstra\Dejkstra\bin\Debug\Dejkstra.pdb
+C:\Users\GP60\Desktop\Dejkstra\Dejkstra\obj\Debug\Dejkstra.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Новая папка\Dejkstra\bin\Debug\Dejkstra.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Новая папка\Dejkstra\obj\Debug\Dejkstra.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Новая папка\Dejkstra\obj\Debug\Dejkstra.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Новая папка\Dejkstra\bin\Debug\Dejkstra.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Новая папка\Dejkstra\bin\Debug\Dejkstra.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\Dejkstra\Новая папка\Dejkstra\obj\Debug\Dejkstra.csprojResolveAssemblyReference.cache
